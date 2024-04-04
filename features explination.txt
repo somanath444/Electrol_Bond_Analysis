@@ -1,0 +1,26 @@
+Donor Data:
+
+01. SNo: Serial Number
+02. Urn: Unique Refereance Number
+03. JournalDate: Date of Journal Entry
+04. PurchaseDate: Date of bond purchase
+05. ExpiryDate: Expiry date of the bond
+06. Purchaser: Name of the purchaser (donor)
+07. Prefix: Prefix code associated with the bond
+08. BondNumber: Bond number for matching
+09. Denomiations: Value of the bond
+10. PayBranchCode: Branch code where payment was made
+11. PayTeller: Teller ID at the bank
+
+
+Recipient Data
+
+01. Sno: Serial number.
+02. DateEncashment: Date of bond encashment.
+03. PartyName: Name of the political party (recipient).
+04. AccountNum: Account number of the party.
+05. Prefix: Prefix code associated with the bond.
+06. BondNumber: Bond number for matching.
+07. Denominations: Value of the bond.
+08. PayBranchCode: Branch code where encashment was done.
+09. PayTeller: Teller ID at the bank.
